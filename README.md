@@ -1,3 +1,3 @@
 # dataset
-sign language
+SIGN LANGUAGE
 This repository contains ASL images.
